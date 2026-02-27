@@ -118,8 +118,6 @@ The system generates an interactive map where users can:
 👉 Example visualization available here:  
 [View Interactive Output](https://stackblitz.com/edit/stackblitz-starters-uvkr8zuz?file=index.html)
 
-*(Replace with preview link if available)*
-
 ---
 
 ## 📊 Dataset
