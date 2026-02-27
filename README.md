@@ -96,6 +96,32 @@ Final ranking combines:
 
 ---
 
+## 🖥️ Recommendation Workflow Example
+
+Below is an example of a simulated user query and system output.
+
+The workflow illustrates:
+
+- Application of categorical filters  
+- Hybrid text similarity search (TF-IDF + SBERT)  
+- Contextual filtering (price, rating, availability)  
+- Final ranked recommendations  
+
+### 🗺️ Interactive Map Output
+
+The system generates an interactive map where users can:
+
+- Visualize recommended restaurants  
+- Navigate geographically  
+- Access key information for each result  
+
+👉 Example visualization available here:  
+[View Interactive Output](https://stackblitz.com/edit/stackblitz-starters-uvkr8zuz?file=index.html)
+
+*(Replace with preview link if available)*
+
+---
+
 ## 📊 Dataset
 
 - Initial restaurants scraped: **3,986**
@@ -122,6 +148,14 @@ Final ranking combines:
 - OpenRouteService API
 - Folium
 - CRISP-DM methodology
+
+---
+
+## 📄 Project Summary Presentation
+
+A concise executive summary of the project is available here:
+
+[Download Presentation (PDF)](presentation/gastronomic_recommender_summary.pdf)
 
 ---
 
